@@ -8,7 +8,7 @@ I solve problems from platforms like LeetCode, Codeforces, GeeksforGeeks, and mo
 The solutions are organized by topic and language for easy navigation.
 
 
-#📝 How to Use
+# 📝 How to Use
 Browse folders by topics.
 
 Each file contains:
@@ -17,7 +17,7 @@ Each file contains:
 - Time and space complexity analysis
 
 
-#💡 Topics Covered
+# 💡 Topics Covered
 - Arrays
 - Strings
 - Trees
